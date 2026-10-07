@@ -1,0 +1,45 @@
+#input-box{
+    
+    
+     width: 400px; height: 200px; background:rgb(245, 11, 120);
+border: 1px solid #d5057e; border-radius: 6px;
+text-align: center;
+margin-top: 180px;
+
+
+
+
+margin-left: 400px;
+}
+body{
+    background-color: pink;
+    font-family:'Courier New', Courier, monospace  Georgia, Times, 'Times New Roman', serif;
+    color: pink;
+    
+}
+.input1{
+    background-color: pink;
+    box-shadow: whitesmoke;
+    border-style:none; 
+    border-radius: 20px;
+    width: 75%;
+    height: 25px;}
+    
+
+.input1:focus {
+    outline: none;
+
+
+    border: 2px solid whitesmoke;}
+button{
+margin-top: 50px;
+width: 55%;
+background-color: #d5057e;
+border-radius: 20px;
+border-color:#d5057e;
+height: 40px;
+}
+
+#label1{
+    margin-bottom: 50px;
+}
